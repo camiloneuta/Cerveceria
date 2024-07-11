@@ -5,6 +5,8 @@ print("Bienvenido! \n¿No sabes que nombre colocarle a tu cervecería? "
 print(" ")
 print("=========================")
 print(" ")
-print("El nombre de tu cervecería es: \n\t " + "\""
+print("El nombre de tu cervecería es: " + "\""
       + input("¿Cuál es tu comida favorita?: ")
       + input("¿Cuál es tu serie favorita?: ") + "\"")
+print(" ")
+print("Gracias por elegirnos!")
