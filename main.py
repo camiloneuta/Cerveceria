@@ -1,12 +1,14 @@
 print("=========================")
 print(" ")
-print("Bienvenido! \n¿No sabes que nombre colocarle a tu cervecería? "
-      "\nNo te preocupes, hoy te ayudaré con tu problema, solo tienes que responder dos preguntas.")
+print("== INVENTOR DE NOMBRE DE CERVEZAS ==")
+print(" ")
+print("Bienvenid@! \nHoy vamos ayudarte a que puedas colocarle un nombre a tu nueva cerveza"
+      "\nSolo tienes que responder dos preguntas.")
 print(" ")
 print("=========================")
 print(" ")
-print("El nombre de tu cervecería es: " + "\""
-      + input("¿Cuál es tu comida favorita?: ")
-      + input("¿Cuál es tu serie favorita?: ") + "\"")
+print("El nombre de tu nueva cerveza es: " + "\""
+      + input("1. ¿Cuál es tu comida favorita?: ")
+      + input("2. ¿Cuál es tu serie favorita?: ") + "\"")
 print(" ")
-print("Gracias por elegirnos!")
+print("Gracias por elegirnos para escoger el nombre de tu cerveza!")
